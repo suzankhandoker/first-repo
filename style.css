@@ -1,0 +1,20 @@
+#main-head{
+    text-align: center;
+    font-size: 50px;
+}
+#slogan{
+    text-align: center;
+    font-size: 15px;
+    
+}
+.content{
+    margin-left: 20px;
+    width: 50%;
+    text-align: justify;
+}
+.head{
+    margin-left: 20px;
+    margin-top: 40px;
+    font-size: 25px;
+    color: brown;
+    width: 50%;
